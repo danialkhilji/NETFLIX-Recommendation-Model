@@ -6,3 +6,4 @@ Due to limited RAM of my machine, I used only "combined_data_1.txt" file from da
 along with "movie_titles.csv" file.
 This project did a basic data analysis in the Jupyter-Notebook and then used 
 pyhton built-in libraries to implement recommendation model of NETFLIX.
+The models used are Collaborative Filtering and Pearsons'R correlation.
